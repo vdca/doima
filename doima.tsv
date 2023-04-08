@@ -1,99 +1,99 @@
-"bibkey"	"izenburua"	"euskalkia"	"udalerria"	"eskualdea"	"lurraldea"	"guztira"	"gramatika"	"hiztegia"	"testuak"	"diakritikoak"	"fono"	"azentua"	"intonazioa"	"audio"
-"delcastillo2001"	"Azkoittiko euskerie"	"gip"	"azkoitia"		"GP"	127	0	1	0	0	0	0	0	0
-"carrera2005"	"Legutiano aldeko euskara"	"biz"	"legutio"		"AR"	167	3	0	1	0	0	0	0	1
-"uned1988"	"Bergarako euskera"	"biz"	"bergara"		"GP"	370	1	1	1	1	20	0	0	
-"agirrebena2007a"	"Beasaingo euskara"	"gip"	"beasain"		"GP"	173	1	1	1	0	7	0	0	
-"elortza1999"	"Arrasateko euskara"	"biz"	"arrasate"		"GP"	247	1	1	1	0	10	0	0	
-"agirrebena2017"	"Getaiko euskera"	"gip"	"getaria"		"GP"	186	1	0	1	0	10	0	0	
-"altuna2014"	"Oñatiko euskeria"	"biz"	"oñati"		"GP"	327	1	1	0	0	21	4	0	0
-"sagarzazu2005"	"Hondarribiko eta Irungo euskara"	"gip"	"hondarribia, irun"		"GP"	126	1	1	0	1	9	3	0	1
-"salaburu1984"	"Hizkuntz teoria eta Baztango euskalkia"	"naf"	"baztan"		"NG"	343	1	0	1	1	337	20	4	0
-"salaburu2005"	"Baztango Mintzoa"	"naf"	"baztan"		"NG"	537	1	1	1	0	31	0	0	0
-"duhau1993"	"Beskoitzeko euskara"	"lap"	"beskoitze"		"LP"	155	1	0	1	0	26	0	0	
-"hurtado2001"	"Goierriko eta Tolosalde hegoaldeko hizkerak"	"gip"	"abaltzisketa, alegia, amezketa, ataun, beasain, gabiria, idiazabal, ikaztegieta, lazkao, legorreta, mutiloa, segura, zaldibia"	"goierri, tolosalde hegoaldea"	"GP"	200	1	0	1	0	29	1	0	
-"camino1997"	"Aezkoako euskararen azterketa dialektologikoa"	"naf"	"orbaizeta, abaurregaina, hiriberri"	"aezkoa"	"NG"	638	1	1	1	0	66	0	0	0
-"ibarra1994"	"Ultzamako euskararen azterketa"	"naf"	"ultzama"		"NG"	748	1	1	1	0	295	38	3	0
-"zuazo2018"	"Sarako euskara"	"lap"	"sara"		"LP"	326	40	264	0	0	7	0	0	0
-"burgete1991"	"Otxandioko euskaraz"	"biz"	"otxandio"		"BZ"	193	1	0	0	0	0	0	0	
-"labaka1996"	"Lasarte-Oriako euskararen azterketa"	"gip"	"lasarte-oria"		"GP"	105	1	1	0	0	13	0	0	0
-"aranberri1996"	"Ermua eta Eitzako euskara"	"biz"	"ermua"		"BZ"	292	1	0	1	0	15	1	0	
-"urkijo1994"	"Zenbait apunte Laudioko euskaraz"	"biz"	"laudio"		"AR"	220	1	1	0	0	36	0	0	0
-"etxabe2003"	"Zaldibiako euskara"	"gip"	"zaldibia"		"GP"	300	1	1	1	0	18	6	0	
-"garmendia2004"	"Ordiziako euskara"	"gip"	"ordizia"		"GP"	191	1	0	1	0	10	2	0	1
-"gaminde2012"	"Gramatika eta hizkuntz bariazioa Bermeon"	"biz"	"bermeo"		"BZ"	250	1	0	1	0	106	14	40	
-"gaminde2004b"	"Berango berbarik berba"	"biz"	"berango"		"BZ"	414	1	1	1	0	33	4	14	
-"gaminde2001b"	"Meñaka berbarik berba"	"biz"	"meñaka"		"BZ"	397	0	1	1	0	0	0	0	
-"olano2005"	"Leitzako euskararen hiztegia"	"gip"	"leitza"		"NG"	443	0	1	0	0	0	0	0	0
-"makazaga2007"	"Elgoibarko euskara"	"biz"	"elgoibar"		"GP"	351	1	1	1	0	18	0	0	1
-"makazaga2010"	"Elgoibarko ahozko euskara"	"biz"	"elgoibar"		"GP"	624	1	1	1	0	61	10	0	
-"lasa2004"	"Urretxu eta Zumarragako euskara"	"gip"	"urretxu, zumarraga"		"GP"	272	1	1	1	0	52	6	0	1
-"laspiur1999a"	"Eibarko euskeriaren deklinabidia eta entonaziñua"	"biz"	"eibar"		"GP"	174	1	0	0	1	32	8	24	0
-"laspiur1999b"	"Eibarrera jatorraren bidetik"	"biz"	"eibar"		"GP"	112	1	0	1	0	15	0	10	0
-"larrañaga1998"	"Antzuolako hizkera"	"biz"	"antzuola"		"GP"	361	1	1	1	0	36	2	0	
-"kamino2007"	"Luzaideko euskararen hiztegia"	"lap"	"luzaide"		"NG"	206	0	1	1	1	0	0	0	0
-"iturain1995"	"Orioko euskara"	"gip"	"orio"		"GP"	211	1	0	1	0	26	0	0	
-"ibarra2000"	"Erroibarko eta Esteribarko hizkera"	"naf"	"erroibar, esteribar"		"NG"	273	185	0	27	0	50	1	0	0
-"izagirre1970"	"El vocabulario vasco de Aranzazu-Oñate y zonas colindantes"	"biz"	"oñati"		"GP"	248	0	1	0	1	0	0	0	0
-"montoya2003"	"Zugarramurdiko eta Urdazubiko euskara"	"lap"	"zugarramurdi, urdazubi"		"NG"	319	1	1	1	0	54	20	0	0
-"fraile1996"	"Oiartzungo hizkera"	"gip"	"oiartzun"		"GP"	253	1	0	1	0	48	0	0	
-"arretxe1994"	"Basauriko euskararen azterketa linguistikoa"	"biz"	"basauri"		"BZ"	468	1	1	1	1	123	5	0	0
-"sarasua2005"	"Eibarko euskara"	"biz"	"eibar"		"GP"	532	1	0	1	0	68	0	0	1
-"salazar2001"	"Ugaoko euskara"	"biz"	"ugao"		"BZ"	141	1	0	1	0	16	0	0	0
-"roman2001"	"Berrizko euskera"	"biz"	"berriz"		"BZ"	111	1	1	1	0	2	0	0	0
-"perez1991"	"Bermeoko herri hizkera"	"biz"	"bermeo"		"BZ"	200	1	1	0	1	6	4	0	0
-"olano1998"	"Areso eta Leitzako hizkerak"	"gip"	"areso, leitza"		"NG"	395	1	0	1	0	59	5	0	0
-"zubiri1998"	"Goizueta eta Arano herrietako hizkeren ezaugarri orokorrak"	"gip"	"goizueta, arano"		"NG"	269	1	0	1	0	26	0	0	0
-"lujanbio2013"	"Goizuetako azentu-hiztegia"	"gip"	"goizueta"		"NG"	86	1	1	1	1	33	33	0	0
-"beristain2018"	"Azpeitiko euskararen hiztegi dialektal bat"	"gip"	"azpeitia"		"GP"	102	1	1	0	1	14	1	0	0
-"zuazo2010"	"Sakanako euskara. Burundako hizkera"	"naf"	"urdiain"		"NG"	227	1	0	0	0	38	0	0	0
-"zuazo2013"	"Mailopeko euskara"	"gip"	"araitz, betelu, larraun"		"NG"	367	116	205	0	0	16	3	0	0
-"zuazo2021"	"Baigorri eta Ortzaize ibarretako euskara"	"lap"	"baigorri, banka, aldude, urepele"	"baigorri ibarra, ortzaize ibarra"	"NB"	438	94	322	0	0	17	0	0	0
-"agirrebena2007b"	"Zarautz hizketan"	"gip"	"zarautz"		"GP"	275	1	1	1	0	10	0	0	0
-"txurruka2003"	"Debako euskara"	"gip"	"deba"		"GP"	197	0	0	1	0	0	0	0	0
-"rotaetxe1978"	"Estudio estructural del euskara de Ondárroa"	"biz"	"ondarroa"		"BZ"	715	1	0	0	0	176	30	36	0
-"ndiaye1970"	"Structure du dialecte basque de Maya"	"naf"	"baztan"		"NG"	249	1	0	1	0	34	0	0	0
-"hualde1994lekeitio"	"The Basque dialect of Lekeitio"	"biz"	"lekeitio"		"BZ"	314	1	1	1	1	72	18	13	1
-"epelde2004a"	"Larresoroko euskara"	"lap"	"larresoro"		"LP"	350	1	1	1	1	33	3	0	1
-"etxebarria1988"	"Zeberio-Haraneko euskararen azterketa etno-linguistikoa"	"biz"	"zeberio"		"BZ"	428	1	0	1	0	128	24	0	0
-"hualde1992"	"A phonological study of the Basque dialect of Getxo"	"biz"	"getxo"		"BZ"	117	1	1	0	0	46	8	0	0
-"rollo1925"	"The Basque dialect of Marquina"	"biz"	"markina-xemein"		"BZ"	170	1	1	1	0	6	0	0	0
-"camino2016"	"Amiküze eskualdeko heskuara"	"lap"	"oragarre, amorotze-zokotze, behauze, bithiriña, ostankoa, uhartehiri, arrueta-sarrikota, martxueta, labetze-bizkai, lüküze-altzümarta, ilharre, gabadi, amendüze-unaso, aiziritze-gamue-zohazti, donapaleu, arboti-zohota, arberatze-zilhekoa, behaskane-laphizketa, larribarre-sorhapürü"	"amiküze"	"NB"	809	314	74	1	0	82	2	0	0
-"ormaetxea2002"	"Aramaioko euskara"	"biz"	"aramaio"		"AR"	208	122	40	16	0	34	0	0	0
-"ormaetxea2005"	"Aramaioko euskara (azterketa dialektologikoa)"	"biz"	"aramaio"		"AR"	593	397	80	36	0	257	25	0	0
-"gaminde2001a"	"Arrieta berbarik berba"	"biz"	"arrieta"		"BZ"	381	1	1	1	0	0	0	0	1
-"gaminde1992a"	"Urduliz eta Gatikako herri hizkeren azterketa linguistikoa"	"biz"	"gatika, urduliz"		"BZ"	1053	562	330	105	0	396	128	0	0
-"gaminde1992b"	"Urduliz ingeru, berbak eta bizimodu"	"biz"	"urduliz, barrika, sopela, gatika, laukiz"		"BZ"	202	0	1	1	0	0	0	0	0
-"gaminde1989"	"Leioako euskararen gramatikaz"	"biz"	"leioa"		"BZ"	219	200	0	0	0	0	0	0	0
-"gaminde1999b"	"Bakio berbarik berba"	"biz"	"bakio"		"BZ"	294	1	1	1	1	0	0	0	0
-"gaminde2000"	"Zamudio berbarik berba"	"biz"	"zamudio"		"BZ"	430	1	1	1	1	0	0	0	0
-"gaminde1997"	"Gatikako euskaraz"	"biz"	"gatika"		"BZ"	246	120	145	0	1	33	2	12	0
-"errazti1994"	"Iurreta elizateko euskara eta toponimia"	"biz"	"iurreta"		"BZ"	239	110	0	52	1	28	0	0	0
-"azurmendi1996"	"Ataungo euskara"	"gip"	"ataun"		"GP"	148	86	0	0	0	24	0	0	0
-"azurmendi1998"	"Zegamako euskara"	"gip"	"zegama"		"GP"	172	72	0	35	0	20	0	0	0
-"arin1989"	"Ataungo aho hizkuntzaren barne muinak"	"gip"	"ataun"		"GP"	506	19	0	1	0	19	0	0	0
-"agirretxe1998"	"Pasaiako hizkera"	"gip"	"pasaia"		"GP"	266	1	1	1	0	38	0	0	0
-"agirretxe2000"	"Lezoko Euskararen Azterketa"	"gip"	"lezo"		"GP"	242	109	16	55	0	33	2	0	0
-"markaida1993"	"Sopelako euskaraz"	"biz"	"sopela"		"BZ"	226	1	1	1	0	25	12	0	0
-"ugarte1993"	"Legazpi barrutiko itzen bilduma"	"gip"	"legazpi"		"GP"	271	74	178	0	0	0	0	0	0
-"iglesias2014"	"Igorreko hizkeraren azterketa dialektologikoa"	"biz"	"igorre"		"BZ"	466	344	30	15	0	72	17	0	0
-"barrutia1996"	"Bermeo eta Mundakako arrantzaleen hiztegia"	"biz"	"mundaka, bermeo"		"BZ"	321	0	240	28	1	0	0	0	1
-"uriarte1995"	"Fruizko Hizkera: Azterketa Linguistikoa"	"biz"	"fruiz"		"BZ"	757	640	0	90	0	303	92	34	0
-"larrea2010"	"Arratiako inguruko hiztegia"	"biz"	"arantzazu, areatza, arteaga, bedia, dima, galdakao, igorre, lemoa, ubide, zeanuri, zeberio"	"arratia"	"BZ"	923	36	604	0	1	6	2	0	0
-"elexpuru2004"	"Bergara aldeko hiztegia"	"biz"	"bergara"		"GP"	767	0	1	0	1	0	0	0	0
-"larrasquet1939"	"Le basque de la Basse-Soule Orientale"	"zub"	"barkoxe, ospitalepea, eskiula, sohüta"	"pettarra"	"ZB"	220	47	167	0	1	0	0	0	0
-"larrasquet1934"	"Le Basque souletin nord-oriental"	"zub"	"barkoxe, ospitalepea, eskiula, sohüta"	"pettarra"	"ZB"	230	209	0	0	0	5	5	0	0
-"erdozia2001"	"Sakana erdialdeko euskara"	"naf"	"etxarri-aranatz, ergoiena, arbizu, lakuntza, arruazu, uharte arakil"	"sakana"	"NG"	517	350	46	19	0	142	0	0	0
-"coyos1999"	"Le parler basque souletin des Arbailles"	"zub"	"idauze-mendi"	"arbaila"	"ZB"	431	330	0	0	0	34	8	0	0
-"mugarza2006"	"Mallabiko euskara"	"biz"	"mallabia"		"BZ"	395	167	143	51	1	42	3	0	1
-"agirrebena2014"	"Elorrixoko berbetia"	"biz"	"elorrio"		"BZ"	304	153	27	50	0	30	0	0	1
-"gaminde2005"	"Derioztarren euskara"	"biz"	"derio"		"BZ"	445	32	385	0	0	0	0	0	1
-"aramaio2011"	"Berriatuko euskararen zenbait alderdi"	"biz"	"berriatua"		"BZ"	368	67	218	9	0	19	16	0	0
-"gaminde2002"	"Jatabe berbarik berba"	"biz"	"jatabe"		"BZ"	400	27	300	28	0	0	0	0	0
-"gaminde2001c"	"Mungia berbarik berba"	"biz"	"mungia"		"BZ"	429	33	386	12	0	7	0	0	0
-"gaminde1991"	"Abadiñoko euskaraz"	"biz"	"abadiño"		"BZ"	164	147	0	0	0	0	0	0	0
-"gaminde2006"	"Lezama berbarik berba"	"biz"	"lezama"		"BZ"	396	17	360	0	0	0	0	0	1
-"apalauza2008"	"Imozko euskara"	"gip"	"imotz"		"NG"	228	93	0	29	0	44	6	0	0
-"ensunza2011"	"Zizurkil ahoz aho"	"gip"	"zizurkil"		"GP"	170	11	4	70	1	7	2	0	1
-"furundarena1998"	"Astigarragako hizkera"	"gip"	"astigarraga"		"GP"	236	0	0	221	0	0	0	0	0
-"->[inon ez] legarra2011"	"Muxikako euskararen azterketa linguistikoa"	"biz"	"muxika"		"BZ"									
-"->[ehu-inter] azketa2003"	"Fikeko berbakera"	"biz"	"gamiz-fika"		"BZ"	141								1
+"bibkey"	"izenburua"	"guztira"	"gramatika"	"hiztegia"	"testuak"	"diakritikoak"	"fono"	"azentua"	"intonazioa"	"audio"	"euskalkia"	"lurraldea"	"udalerria"	"eskualdea"
+"agirrebena2007a"	"Beasaingo euskara"	173	1	1	1	0	7	0	0	1	"gip"	"GP"	"beasain"	NA
+"agirrebena2007b"	"Zarautz hizketan"	275	1	1	1	0	10	0	0	0	"gip"	"GP"	"zarautz"	NA
+"agirrebena2014"	"Elorrixoko berbetia"	304	153	27	50	0	30	0	0	1	"biz"	"BZ"	"elorrio"	NA
+"agirrebena2017"	"Getaiko euskera"	186	1	0	1	0	10	0	0	0	"gip"	"GP"	"getaria"	NA
+"agirretxe1998"	"Pasaiako hizkera"	266	1	1	1	0	38	0	0	0	"gip"	"GP"	"pasaia"	NA
+"agirretxe2000"	"Lezoko Euskararen Azterketa"	242	109	16	55	0	33	2	0	0	"gip"	"GP"	"lezo"	NA
+"altuna2014"	"Oñatiko euskeria"	327	1	1	0	0	21	4	0	0	"biz"	"GP"	"oñati"	NA
+"apalauza2008"	"Imozko euskara"	228	93	0	29	0	44	6	0	0	"gip"	"NG"	"imotz"	NA
+"aramaio2011"	"Berriatuko euskararen zenbait alderdi"	368	67	218	9	0	19	16	0	0	"biz"	"BZ"	"berriatua"	NA
+"aranberri1996"	"Ermua eta Eitzako euskara"	292	1	0	1	0	15	1	0	0	"biz"	"BZ"	"ermua"	NA
+"arin1989"	"Ataungo aho hizkuntzaren barne muinak"	506	19	0	1	0	19	0	0	0	"gip"	"GP"	"ataun"	NA
+"arretxe1994"	"Basauriko euskararen azterketa linguistikoa"	468	1	1	1	1	123	5	0	0	"biz"	"BZ"	"basauri"	NA
+"azketa2003"	"Fikeko berbakera"	141	NA	NA	NA	NA	0	0	0	1	"biz"	"BZ"	"gamiz-fika"	NA
+"azurmendi1996"	"Ataungo euskara"	148	86	0	0	0	24	0	0	0	"gip"	"GP"	"ataun"	NA
+"azurmendi1998"	"Zegamako euskara"	172	72	0	35	0	20	0	0	0	"gip"	"GP"	"zegama"	NA
+"barrutia1996"	"Bermeo eta Mundakako arrantzaleen hiztegia"	321	0	240	28	1	0	0	0	1	"biz"	"BZ"	"mundaka, bermeo"	NA
+"beristain2018"	"Azpeitiko euskararen hiztegi dialektal bat"	102	1	1	0	1	14	1	0	0	"gip"	"GP"	"azpeitia"	NA
+"burgete1991"	"Otxandioko euskaraz"	193	1	0	0	0	0	0	0	0	"biz"	"BZ"	"otxandio"	NA
+"camino1997"	"Aezkoako euskararen azterketa dialektologikoa"	638	1	1	1	0	66	0	0	0	"naf"	"NG"	"orbaizeta, abaurregaina, hiriberri"	"aezkoa"
+"camino2016"	"Amiküze eskualdeko heskuara"	809	314	74	1	0	82	2	0	0	"lap"	"NB"	"oragarre, amorotze-zokotze, behauze, bithiriña, ostankoa, uhartehiri, arrueta-sarrikota, martxueta, labetze-bizkai, lüküze-altzümarta, ilharre, gabadi, amendüze-unaso, aiziritze-gamue-zohazti, donapaleu, arboti-zohota, arberatze-zilhekoa, behaskane-laphizketa, larribarre-sorhapürü"	"amiküze"
+"carrera2005"	"Legutiano aldeko euskara"	167	3	0	1	0	0	0	0	1	"biz"	"AR"	"legutio"	NA
+"coyos1999"	"Le parler basque souletin des Arbailles"	431	330	0	0	0	34	8	0	0	"zub"	"ZB"	"idauze-mendi"	"arbaila"
+"delcastillo2001"	"Azkoittiko euskerie"	127	0	1	0	0	0	0	0	0	"gip"	"GP"	"azkoitia"	NA
+"duhau1993"	"Beskoitzeko euskara"	155	1	0	1	0	26	0	0	0	"lap"	"LP"	"beskoitze"	NA
+"elexpuru2004"	"Bergara aldeko hiztegia"	767	0	1	0	1	0	0	0	0	"biz"	"GP"	"bergara"	NA
+"elortza1999"	"Arrasateko euskara"	247	1	1	1	0	10	0	0	0	"biz"	"GP"	"arrasate"	NA
+"ensunza2011"	"Zizurkil ahoz aho"	170	11	4	70	1	7	2	0	1	"gip"	"GP"	"zizurkil"	NA
+"epelde2004a"	"Larresoroko euskara"	350	1	1	1	1	33	3	0	1	"lap"	"LP"	"larresoro"	NA
+"erdozia2001"	"Sakana erdialdeko euskara"	517	350	46	19	0	142	0	0	0	"naf"	"NG"	"etxarri-aranatz, ergoiena, arbizu, lakuntza, arruazu, uharte arakil"	"sakana"
+"errazti1994"	"Iurreta elizateko euskara eta toponimia"	239	110	0	52	1	28	0	0	0	"biz"	"BZ"	"iurreta"	NA
+"etxabe2003"	"Zaldibiako euskara"	300	1	1	1	0	18	6	0	0	"gip"	"GP"	"zaldibia"	NA
+"etxebarria1988"	"Zeberio-Haraneko euskararen azterketa etno-linguistikoa"	428	1	0	1	0	128	24	0	0	"biz"	"BZ"	"zeberio"	NA
+"fraile1996"	"Oiartzungo hizkera"	253	1	0	1	0	48	0	0	0	"gip"	"GP"	"oiartzun"	NA
+"furundarena1998"	"Astigarragako hizkera"	236	0	0	221	0	0	0	0	0	"gip"	"GP"	"astigarraga"	NA
+"gaminde1989"	"Leioako euskararen gramatikaz"	219	200	0	0	0	0	0	0	0	"biz"	"BZ"	"leioa"	NA
+"gaminde1991"	"Abadiñoko euskaraz"	164	147	0	0	0	0	0	0	0	"biz"	"BZ"	"abadiño"	NA
+"gaminde1992a"	"Urduliz eta Gatikako herri hizkeren azterketa linguistikoa"	1053	562	330	105	0	396	128	0	0	"biz"	"BZ"	"gatika, urduliz"	NA
+"gaminde1992b"	"Urduliz ingeru, berbak eta bizimodu"	202	0	1	1	0	0	0	0	0	"biz"	"BZ"	"urduliz, barrika, sopela, gatika, laukiz"	NA
+"gaminde1997"	"Gatikako euskaraz"	246	120	145	0	1	33	2	12	0	"biz"	"BZ"	"gatika"	NA
+"gaminde1999b"	"Bakio berbarik berba"	294	1	1	1	1	0	0	0	0	"biz"	"BZ"	"bakio"	NA
+"gaminde2000"	"Zamudio berbarik berba"	430	1	1	1	1	0	0	0	0	"biz"	"BZ"	"zamudio"	NA
+"gaminde2001a"	"Arrieta berbarik berba"	381	1	1	1	0	0	0	0	1	"biz"	"BZ"	"arrieta"	NA
+"gaminde2001b"	"Meñaka berbarik berba"	397	0	1	1	0	0	0	0	0	"biz"	"BZ"	"meñaka"	NA
+"gaminde2001c"	"Mungia berbarik berba"	429	33	386	12	0	7	0	0	0	"biz"	"BZ"	"mungia"	NA
+"gaminde2002"	"Jatabe berbarik berba"	400	27	300	28	0	0	0	0	0	"biz"	"BZ"	"jatabe"	NA
+"gaminde2004b"	"Berango berbarik berba"	414	1	1	1	0	33	4	14	0	"biz"	"BZ"	"berango"	NA
+"gaminde2005"	"Derioztarren euskara"	445	32	385	0	0	0	0	0	1	"biz"	"BZ"	"derio"	NA
+"gaminde2006"	"Lezama berbarik berba"	396	17	360	0	0	0	0	0	1	"biz"	"BZ"	"lezama"	NA
+"gaminde2012"	"Gramatika eta hizkuntz bariazioa Bermeon"	250	1	0	1	0	106	14	40	0	"biz"	"BZ"	"bermeo"	NA
+"garmendia2004"	"Ordiziako euskara"	191	1	0	1	0	10	2	0	1	"gip"	"GP"	"ordizia"	NA
+"hualde1992"	"A phonological study of the Basque dialect of Getxo"	117	1	1	0	0	46	8	0	0	"biz"	"BZ"	"getxo"	NA
+"hualde1994lekeitio"	"The Basque dialect of Lekeitio"	314	1	1	1	1	72	18	13	1	"biz"	"BZ"	"lekeitio"	NA
+"hurtado2001"	"Goierriko eta Tolosalde hegoaldeko hizkerak"	200	1	0	1	0	29	1	0	0	"gip"	"GP"	"abaltzisketa, alegia, amezketa, ataun, beasain, gabiria, idiazabal, ikaztegieta, lazkao, legorreta, mutiloa, segura, zaldibia"	"goierri, tolosalde hegoaldea"
+"ibarra1994"	"Ultzamako euskararen azterketa"	748	1	1	1	0	295	38	3	0	"naf"	"NG"	"ultzama"	NA
+"ibarra2000"	"Erroibarko eta Esteribarko hizkera"	273	185	0	27	0	50	1	0	0	"naf"	"NG"	"erroibar, esteribar"	NA
+"iglesias2014"	"Igorreko hizkeraren azterketa dialektologikoa"	466	344	30	15	0	72	17	0	0	"biz"	"BZ"	"igorre"	NA
+"iturain1995"	"Orioko euskara"	211	1	0	1	0	26	0	0	0	"gip"	"GP"	"orio"	NA
+"izagirre1970"	"El vocabulario vasco de Aranzazu-Oñate y zonas colindantes"	248	0	1	0	1	0	0	0	0	"biz"	"GP"	"oñati"	NA
+"kamino2007"	"Luzaideko euskararen hiztegia"	206	0	1	1	1	0	0	0	0	"lap"	"NG"	"luzaide"	NA
+"labaka1996"	"Lasarte-Oriako euskararen azterketa"	105	1	1	0	0	13	0	0	0	"gip"	"GP"	"lasarte-oria"	NA
+"larrasquet1934"	"Le Basque souletin nord-oriental"	230	209	0	0	0	5	5	0	0	"zub"	"ZB"	"barkoxe, ospitalepea, eskiula, sohüta"	"pettarra"
+"larrasquet1939"	"Le basque de la Basse-Soule Orientale"	220	47	167	0	1	0	0	0	0	"zub"	"ZB"	"barkoxe, ospitalepea, eskiula, sohüta"	"pettarra"
+"larrañaga1998"	"Antzuolako hizkera"	361	1	1	1	0	36	2	0	0	"biz"	"GP"	"antzuola"	NA
+"larrea2010"	"Arratia inguruko hiztegia"	923	36	604	0	1	6	2	0	0	"biz"	"BZ"	"arantzazu, areatza, arteaga, bedia, dima, galdakao, igorre, lemoa, ubide, zeanuri, zeberio"	"arratia"
+"lasa2004"	"Urretxu eta Zumarragako euskara"	272	1	1	1	0	52	6	0	1	"gip"	"GP"	"urretxu, zumarraga"	NA
+"laspiur1999a"	"Eibarko euskeriaren deklinabidia eta entonaziñua"	174	1	0	0	1	32	8	24	0	"biz"	"GP"	"eibar"	NA
+"laspiur1999b"	"Eibarrera jatorraren bidetik"	112	1	0	1	0	15	0	10	0	"biz"	"GP"	"eibar"	NA
+"legarra2011"	"Muxikako euskararen azterketa linguistikoa"	NA	NA	NA	NA	NA	0	0	0	0	"biz"	"BZ"	"muxika"	NA
+"lujanbio2013"	"Goizuetako azentu-hiztegia"	86	1	1	1	1	33	33	0	0	"gip"	"NG"	"goizueta"	NA
+"makazaga2007"	"Elgoibarko euskara"	351	1	1	1	0	18	0	0	1	"biz"	"GP"	"elgoibar"	NA
+"makazaga2010"	"Elgoibarko ahozko euskara"	624	1	1	1	0	61	10	0	0	"biz"	"GP"	"elgoibar"	NA
+"markaida1993"	"Sopelako euskaraz"	226	1	1	1	0	25	12	0	0	"biz"	"BZ"	"sopela"	NA
+"montoya2003"	"Zugarramurdiko eta Urdazubiko euskara"	319	1	1	1	0	54	20	0	0	"lap"	"NG"	"zugarramurdi, urdazubi"	NA
+"mugarza2006"	"Mallabiko euskara"	395	167	143	51	1	42	3	0	1	"biz"	"BZ"	"mallabia"	NA
+"ndiaye1970"	"Structure du dialecte basque de Maya"	249	1	0	1	0	34	0	0	0	"naf"	"NG"	"baztan"	NA
+"olano1998"	"Areso eta Leitzako hizkerak"	395	1	0	1	0	59	5	0	0	"gip"	"NG"	"areso, leitza"	NA
+"olano2005"	"Leitzako euskararen hiztegia"	443	0	1	0	0	0	0	0	0	"gip"	"NG"	"leitza"	NA
+"ormaetxea2002"	"Aramaioko euskara"	208	122	40	16	0	34	0	0	0	"biz"	"AR"	"aramaio"	NA
+"ormaetxea2005"	"Aramaioko euskara (azterketa dialektologikoa)"	593	397	80	36	0	257	25	0	0	"biz"	"AR"	"aramaio"	NA
+"perez1991"	"Bermeoko herri hizkera"	200	1	1	0	1	6	4	0	0	"biz"	"BZ"	"bermeo"	NA
+"rollo1925"	"The Basque dialect of Marquina"	170	1	1	1	0	6	0	0	0	"biz"	"BZ"	"markina-xemein"	NA
+"roman2001"	"Berrizko euskera"	111	1	1	1	0	2	0	0	0	"biz"	"BZ"	"berriz"	NA
+"rotaetxe1978"	"Estudio estructural del euskara de Ondárroa"	715	1	0	0	0	176	30	36	0	"biz"	"BZ"	"ondarroa"	NA
+"sagarzazu2005"	"Hondarribiko eta Irungo euskara"	126	1	1	0	1	9	3	0	1	"gip"	"GP"	"hondarribia, irun"	NA
+"salaburu1984"	"Hizkuntz teoria eta Baztango euskalkia"	343	1	0	1	1	337	20	4	0	"naf"	"NG"	"baztan"	NA
+"salaburu2005"	"Baztango Mintzoa"	537	1	1	1	0	31	0	0	0	"naf"	"NG"	"baztan"	NA
+"salazar2001"	"Ugaoko euskara"	141	1	0	1	0	16	0	0	0	"biz"	"BZ"	"ugao"	NA
+"sarasua2005"	"Eibarko euskara"	532	1	0	1	0	68	0	0	1	"biz"	"GP"	"eibar"	NA
+"txurruka2003"	"Debako euskara"	197	0	0	1	0	0	0	0	0	"gip"	"GP"	"deba"	NA
+"ugarte1993"	"Legazpi barrutiko itzen bilduma"	271	74	178	0	0	0	0	0	0	"gip"	"GP"	"legazpi"	NA
+"uned1988"	"Bergarako euskera"	370	1	1	1	1	20	0	0	0	"biz"	"GP"	"bergara"	NA
+"uriarte1995"	"Fruizko Hizkera: Azterketa Linguistikoa"	757	640	0	90	0	303	92	34	0	"biz"	"BZ"	"fruiz"	NA
+"urkijo1994"	"Zenbait apunte Laudioko euskaraz"	220	1	1	0	0	36	0	0	0	"biz"	"AR"	"laudio"	NA
+"zuazo2010"	"Sakanako euskara. Burundako hizkera"	227	1	0	0	0	38	0	0	0	"naf"	"NG"	"urdiain"	NA
+"zuazo2013"	"Mailopeko euskara"	367	116	205	0	0	16	3	0	0	"gip"	"NG"	"araitz, betelu, larraun"	NA
+"zuazo2018"	"Sarako euskara"	326	40	264	0	0	7	0	0	0	"lap"	"LP"	"sara"	NA
+"zuazo2021"	"Baigorri eta Ortzaize ibarretako euskara"	438	94	322	0	0	17	0	0	0	"lap"	"NB"	"baigorri, banka, aldude, urepele"	"baigorri ibarra, ortzaize ibarra"
+"zubiri1998"	"Goizueta eta Arano herrietako hizkeren ezaugarri orokorrak"	269	1	0	1	0	26	0	0	0	"gip"	"NG"	"goizueta, arano"	NA
