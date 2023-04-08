@@ -5,8 +5,8 @@ Euskal hizkerak deskribatzen dituzten monografien datu-base bat osatu dut, eta a
 
 Fitxategien azalpena:
 
-- `doima.bib`: xehetasun bibliografikoak.
-- `doima.tsv`: monografia bakoitzak alderdi prosodikoei eskaintzen dien tartea zehazten da.
+- [`doima.bib`](doima.bib): xehetasun bibliografikoak.
+- [`doima.tsv`](doima.tsv): monografia bakoitzak alderdi prosodikoei eskaintzen dien tartea zehazten da.
 
 ![intonazioa_izenak_mapa](irudiak/3_intonazioa_izenak.jpg)
 
