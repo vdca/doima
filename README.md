@@ -3,7 +3,7 @@
 
 Euskal hizkerak deskribatzen dituzten monografien datu-base bat osatu dut, eta alderdi prosodikoek (azentuak, intonazioak) duten tokia neurtu.
 
-Ikus xehetasunak ondoko argitalpenean: [*Fontes Linguae Vasconum* (135): 53--68](https://doi.org/10.35462/flv135.3).
+Ikus xehetasunak ondoko argitalpenean: [*Fontes Linguae Vasconum* (135): 53-68](https://doi.org/10.35462/flv135.3).
 
 Fitxategien azalpena:
 
