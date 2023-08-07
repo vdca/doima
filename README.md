@@ -8,7 +8,7 @@ Fitxategien azalpena:
 - [`doima.bib`](doima.bib): xehetasun bibliografikoak.
 - [`doima.tsv`](doima.tsv): monografia bakoitzak alderdi prosodikoei eskaintzen dien tartea zehazten da.
 
-![intonazioa_izenak_mapa](irudiak/3_intonazioa_izenak.jpg)
+![intonazioa_izenak_mapa](irudiak/3_intonazioa_izenak_zb_2.jpg)
 
 Lagineko monografien hedadura geografikoa.
 
